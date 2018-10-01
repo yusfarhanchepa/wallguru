@@ -1,0 +1,4 @@
+#Sat Sep 29 01:02:19 SGT 2018
+base.0=C\:\\react\\wallguru\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

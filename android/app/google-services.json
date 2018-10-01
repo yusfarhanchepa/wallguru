@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "39273434662",
+    "firebase_url": "https://wallguru-app.firebaseio.com",
+    "project_id": "wallguru-app",
+    "storage_bucket": "wallguru-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39273434662:android:aa2d150bae8e32a9",
+        "android_client_info": {
+          "package_name": "com.koreawallpaper.wallguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39273434662-qqf9nc89lsgtsipkv0nqpv9pl84smikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxI58SXKBV_PGG1N11tj6iSQ2ShhWzPjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
